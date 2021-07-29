@@ -102,6 +102,12 @@
     font-weight: bold;
 }
 
+
+.button:hover {
+    color: white;
+    opacity: 0.9;
+}
+
 .button-primary {
     background-image: linear-gradient(#694fc4, #24a8e7);
     color: white;
