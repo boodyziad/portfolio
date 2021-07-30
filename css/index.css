@@ -124,3 +124,34 @@
         font-size: 2rem;
     }
 }
+
+
+/* Projects */
+
+.projects-cards {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.card {
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+
+/* Sections */
+
+.section-title {
+    font-size: 3.5rem;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.container {
+    justify-content: center;
+}
